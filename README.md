@@ -4,7 +4,9 @@
 
 Input : jdkx.x.x.tar.gz
 
-Installation : 
+Installation :
+
+$ git clone https://github.com/sreeshk692/metazploit_install/
 
 $ chmod +x metazploit_install.sh oracle_jdk_install.sh
 
