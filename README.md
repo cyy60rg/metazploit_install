@@ -6,7 +6,7 @@ Input : jdkx.x.x.tar.gz
 
 Installation : 
 
-$ chmod +x metazploit_install.sh
+$ chmod +x metazploit_install.sh oracle_jdk_install.sh
 
 $ ./metazploit_install.sh jdkx.x.x.tar.gz
 
