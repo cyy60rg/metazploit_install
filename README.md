@@ -6,7 +6,7 @@ Input : jdkx.x.x.tar.gz
 
 Installation : 
 
-$  ./metazploit_install jdk jdkx.x.x.tar.gz
+$ ./metazploit_install jdk jdkx.x.x.tar.gz
 
 - During installation, password will be asked, after that you have to configure 'postgressql' using commands mentioned in "postgres_db_config.txt" file
 - Use the commands in that file.
@@ -15,6 +15,6 @@ $  ./metazploit_install jdk jdkx.x.x.tar.gz
 
 $ source ~/.bashrc
 
-After this all intallation will be completed.
+- After this all intallation will be completed.
 
 $ msfconsole
